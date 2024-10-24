@@ -1,4 +1,4 @@
-# Curriculo-HTML-CSS template w3 school.
+# Curricule
 
 # Skills
 ![image](https://github.com/user-attachments/assets/df9bf60e-4f81-4c49-8c37-1e1c2e1e4f8f)
